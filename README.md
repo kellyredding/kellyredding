@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi, I'm Kelly Redding 👍
 
-<!--
-**kellyredding/kellyredding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love full-stack web development. I prefer using Ruby and Javascript. I have led a development team, architected complex software systems, designed front-end UX, and everything in between.
 
-Here are some ideas to get you started:
+I play around a lot in Ruby and have written many gems to learn different concepts and play with different API approaches.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Some of my Github Stats
+[![Github stats](https://github-readme-stats.vercel.app/api?username=kellyredding&show_icons=true&include_all_commits=true&count_private=true&theme=vue)](https://github.com/kellyredding/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kellyredding&theme=vue&layout=compact)](https://github.com/kellyredding/github-readme-stats)
+
+## Contact
+
+Feel free to contact me: kelly [at] kellyredding [dot] com.
+
+My LinkedIn profile: https://www.linkedin.com/in/kellyredding-is-kellyredding/
